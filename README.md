@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ram 👋
 
-<!--
-**rrijal1/rrijal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Data Builder focused on education and intelligent systems.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Working On
+- AI-powered Education Tools
+- Data Engineering & Analytics
+- ML & Automation Projects
+- Python-based AI systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+- Python
+- TypeScript
+- Machine Learning
+- Data Engineering
+- Google Cloud (GCP)
+- AI/ML
+
+## 📊 Current Projects
+- Nepse Smart Analytics
+- AI Data Cleaning
+- Education AI Tools
+- Data Science Agents
+
+## 🎯 Focus
+Building intelligent systems that improve education and decision making.
+
+## 📫 Let's Connect
+- GitHub: github.com/rrijal1
